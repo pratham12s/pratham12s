@@ -48,9 +48,20 @@ ________________________________________________________________________________
 
 <p align ="center">
   <a href="https://github.com/pratham12s/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham12s&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham12s&show_icons=true&theme=radical&langs_count=8" />
   </a>
 </p>
+
+________________________________________________________________________________________________________________________________________________________________
+
+<h1 align = "center"> 📔 Courses </h1>
+
+<p align ="center">
+  <ul>
+    <li> Neural Networt Spcialization <a href="https://www.coursera.org/account/accomplishments/verify/GHS9ZHAY6V6Y"> <img alt="Coursera"             src="https://img.shields.io/badge/coursera%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a> </li>
+  </ul>
+</p>
+    
 
 
 
