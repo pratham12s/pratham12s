@@ -17,11 +17,11 @@ ________________________________________________________________________________
 
 <h1 align ="center"> 📝 Some Facts About Me </h1>
 <ul>
-  <li> Wish me on 30th July🍰🎊</li>
-  <li> Birth place Goa 🏖 ⛵ India</li>
-  <dl>
-    <dt>Languages</dt>
-    <dd> English and Hindi </dd>
-  </dl>
- </ul>
+  <li> Wish me on 30th July🍰🎊.</li>
+  <li> Birth place Goa 🏖 ⛵ India.</li>
+  <li> Languages : English🅰 and Hindi🕉.</li>
+  <li> Qualified one of the most prestigious Entrance Examination Jee Advanced.</li>
+  <li> From very childhood Science and Technology ⚙ 💻 excites me, Love❤ Physics⏳ 📐and its related branches.</li>
+  <li> Currently working in the field of Neural Networks🧠 and Computer Vision 👁 as well as competitive coding👨‍💻.</li>
+</ul>
 
