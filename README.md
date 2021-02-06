@@ -46,6 +46,12 @@ ________________________________________________________________________________
 
 <h1 align="center">🥇 Top Languages </h1>
 
+<p align ="center">
+  <a href="https://github.com/pratham12s/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham12s&show_icons=true&theme=radical" />
+  </a>
+</p>
+
 
 
 
