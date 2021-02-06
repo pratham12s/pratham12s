@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 
 <h1 align ="center"> 🌞 About India 🌞 </h1>
-<p><img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" /><img align ="center" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/giphy%20(1).gif" /><img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/budhha%20india.jpg" /></p>
+<p><img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" /><img align ="center" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/giphy%20(1).gif" /><img align ="right" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/budhha%20india.jpg" /></p>
 
 
 
