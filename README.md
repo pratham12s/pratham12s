@@ -33,10 +33,12 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________
 
-
-[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=radical)](https://github.com/pratham12s/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham12s&layout=compact)](https://github.com/pratham12s/github-readme-stats)
-
+<a href="https://github.com/pratham12s/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham12s&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/pratham12s/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pratham12s&repo=convoychat" />
+</a>
 
 
 
