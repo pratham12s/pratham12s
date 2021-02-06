@@ -34,6 +34,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________________________
 
 <h1>📈 Github Statistics</h1>
+
 [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=tokyonight)](https://github.com/pratham12s/github-readme-stats)
 
 
