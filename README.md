@@ -67,7 +67,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________
 
 <h1 align = "center"> Future Exploration🔎📖 </h1>
-<p>
+<p align = "center">
 <img alt="IOS Development" src="https://img.shields.io/badge/IOS%20Development%20-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white"/>
 <img alt="Cloud Computing" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
