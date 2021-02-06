@@ -23,7 +23,7 @@ src ="https://img.shields.io/badge/-NLP%20%20%20-lightgrey?style=flat-square" />
 ___________________________________________________________________________________________________________________________________________________________
 
 <h1 align ="center"> 📝 Some Facts About Me </h1>
-<img align ="right" img width="300" height="380" src="https://github.com/pratham12s/pratham12s/blob/main/coding-freak.gif" />
+<img align ="right" img width="300" height="350" src="https://github.com/pratham12s/pratham12s/blob/main/coding-freak.gif" />
 <ul>
   <li> Wish me on 30th July🍰🎊.</li>
   <li> Birth place Goa 🏖 ⛵ India.</li>
