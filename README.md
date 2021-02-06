@@ -67,12 +67,13 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________
 
 <h1 align = "center"> Future Exploration🔎📖 </h1>
+<p>
 ![IOS Development](https://img.shields.io/badge/IOS%20Development%20-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white
-
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+</p>
 
 
 
