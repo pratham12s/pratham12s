@@ -55,13 +55,13 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________
 
 <h1 align = "center"> 📔 Courses </h1>
-
 <p align ="center">
  <a href="https://www.coursera.org/account/accomplishments/verify/GHS9ZHAY6V6Y"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Neural%20Network%20 Spcialization%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/PYWCUFT9LSJR"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Python%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/YJ7NQEVFXU4L"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Programming%20for%20Everybody-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/5YL4LKCFE7PL"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Algorithmic%20Thinking%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
-   <a href="https://www.coursera.org/account/accomplishments/verify/QF5Q74CBAP3L"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
+ <a href="https://www.coursera.org/account/accomplishments/verify/QF5Q74CBAP3L"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
+ <a href="https://www.udemy.com/certificate/UC-b5f71b1c-1709-439e-be42-405e331b3e68/"> <img alt="Udemy" src="https://img.shields.io/badge/udemy%20Machine%20Learning%20Bootcamp%20-%23EC5252.svg?&style=for-the-badge&logo=udemy&logoColor=white" /> </a>
 </p>
     
 
