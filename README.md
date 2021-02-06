@@ -58,6 +58,7 @@ ________________________________________________________________________________
 
 <p align ="center">
   <a href="https://www.coursera.org/account/accomplishments/verify/GHS9ZHAY6V6Y"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Neural%20Network%20 Spcialization%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/PYWCUFT9LSJR"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Python%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
 </p>
     
 
