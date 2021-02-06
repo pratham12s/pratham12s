@@ -33,9 +33,14 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________
 
-<h1 align="center">📈 Github Statistics</h1>
+<h1 align="center"> 📈 Github Statistics </h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=tokyonight"("https://github.com/pratham12s/github-readme-stats") />
+<p align ="center">
+  <a href="https://github.com/pratham12s/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=radical" />
+  </a>
+</p>
+
 
 _______________________________________________________________________________________________________________________________________________________________
 
