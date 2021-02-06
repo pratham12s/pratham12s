@@ -13,3 +13,15 @@ src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&lo
 src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="NLP" 
 src ="https://img.shields.io/badge/-NLP%20%20%20-lightgrey?style=flat-square" /></p></p>
 
+___________________________________________________________________________________________________________________________________________________________
+
+<h1 align ="center"> 📝 Some Facts About Me </h1>
+<ul>
+  <li> Wish me on 30th July🍰🎊</li>
+  <li> Birth place Goa 🏖 ⛵ India</li>
+  <dl>
+    <dt>Languages</dt>
+    <dd> English and Hindi </dd>
+  </dl>
+ </ul>
+
