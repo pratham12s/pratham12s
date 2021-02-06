@@ -34,7 +34,10 @@ ________________________________________________________________________________
 
 
 <h1 align ="center"> 🌞 About India 🌞 </h1>
-<img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" /><img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/giphy%20(1).gif" /><img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/budhha%20india.jpg" /><img align ="left" img width="200" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/1-Zomato_Food-Photographer-in-Delhi_Biryani.jpg" />
+<img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" /><img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/giphy%20(1).gif" /><img align ="left" img width="250" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/budhha%20india.jpg" />
+<ul align ="right">
+  <li> India is a Tropical South Asian Country</li>
+</ul>
 
 
 
