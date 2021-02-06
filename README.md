@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 
 <h1 align ="center"> 🌞 About India 🌞 </h1>
-<img align ="left" img width="300" height="200" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" />
+<img align ="left" img width="400" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" />
 
 
 
