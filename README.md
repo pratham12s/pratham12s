@@ -23,5 +23,19 @@ ________________________________________________________________________________
   <li> Qualified one of the most prestigious Entrance Examination Jee Advanced.</li>
   <li> From very childhood Science and Technology ⚙ 💻 excites me, Love❤ Physics⏳ 📐and its related branches.</li>
   <li> Currently working in the field of Neural Networks🧠 and Computer Vision 👁 as well as competitive coding👨‍💻.</li>
+  <li> Worked on a lot of different Datasets 🧾 and Machine Learning Models 💡 feel free to check my repositories👉.</li>
+  <li> Wish to contribute in AI🤖 breakthrough and its related applications.</li>
+  <li> Love watching movies🎞 related to science(Interstellar❤) or philosophy.</li>
+  <li> I belive in team work hence will always be very happy to work on projects 🧩🎮.</li>
+  <li> I am an active LinkedIn user and share my ideas 💡 and knowledge frequently.
 </ul>
+
+_____________________________________________________________________________________________________________________________________________________________
+
+
+<h1 align ="center"> 🌞 About India 🌞 </h1>
+
+
+
+
 
