@@ -63,7 +63,16 @@ ________________________________________________________________________________
  <a href="https://www.coursera.org/account/accomplishments/verify/QF5Q74CBAP3L"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
  <a href="https://www.udemy.com/certificate/UC-b5f71b1c-1709-439e-be42-405e331b3e68/"> <img alt="Udemy" src="https://img.shields.io/badge/udemy%20Machine%20Learning%20Bootcamp%20-%23EC5252.svg?&style=for-the-badge&logo=udemy&logoColor=white" /> </a>
 </p>
-    
+
+__________________________________________________________________________________________________________________________________________________________________
+
+<h1 align = "center"> Future Exploration🔎📖 </h1>
+![IOS Development](https://img.shields.io/badge/IOS%20Development%20-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white
+
 
 
 
