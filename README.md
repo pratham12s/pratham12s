@@ -33,12 +33,8 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________________________________________________
 
-<a href="https://github.com/pratham12s/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham12s" />
-</a>
-<a href="https://github.com/pratham12s/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pratham12s&layout=compact" />
-</a>
+<h1>📈 Github Statistics</h1>
+[![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=tokyonight)](https://github.com/pratham12s/github-readme-stats)
 
 
 
