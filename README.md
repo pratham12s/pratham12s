@@ -61,6 +61,7 @@ ________________________________________________________________________________
  <a href="https://www.coursera.org/account/accomplishments/verify/PYWCUFT9LSJR"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Python%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/YJ7NQEVFXU4L"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Programming%20for%20Everybody-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
  <a href="https://www.coursera.org/account/accomplishments/verify/5YL4LKCFE7PL"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Algorithmic%20Thinking%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
+   <a href="https://www.coursera.org/account/accomplishments/verify/QF5Q74CBAP3L"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Data%20structures%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
 </p>
     
 
