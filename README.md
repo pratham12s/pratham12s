@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 <h1>📈 Github Statistics</h1>
 
-<a img align ="center"> [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=tokyonight)](https://github.com/pratham12s/github-readme-stats) </a>
+<a href=https://github.com/pratham12s/github-readme-stats><img align="center" src ="https://github-readme-stats.vercel.app/api?username=pratham12s&show_icons=true&theme=tokyonight" /></a>
 
 
 
