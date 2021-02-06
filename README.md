@@ -1,5 +1,5 @@
 <p align = "center">
-  <img align ="center" img width="1000" height="300" src="https://github.com/pratham12s/pratham12s/blob/main/final_601e4c1c9329dd002f31cbaf_208516.gif" />
+  <img width="600" height="300" src="https://github.com/pratham12s/pratham12s/blob/main/final_601e4c1c9329dd002f31cbaf_208516.gif" />
 </p>
 _______________________________________________________________________________________________________________________________________________________
 <img align ="right" img width="300" height="200" src="https://github.com/pratham12s/pratham12s/blob/main/gif-1.gif" />
