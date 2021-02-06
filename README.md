@@ -57,9 +57,7 @@ ________________________________________________________________________________
 <h1 align = "center"> 📔 Courses </h1>
 
 <p align ="center">
-  <ul>
-    <li> <a href="https://www.coursera.org/account/accomplishments/verify/GHS9ZHAY6V6Y"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Neural%20Network%20 Spcialization%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a> </li>
-  </ul>
+  <a href="https://www.coursera.org/account/accomplishments/verify/GHS9ZHAY6V6Y"> <img alt="Coursera" src="https://img.shields.io/badge/coursera%20Neural%20Network%20 Spcialization%20-%230056D2.svg?&style=for-the-badge&logo=coursera&logoColor=white" /> </a>
 </p>
     
 
