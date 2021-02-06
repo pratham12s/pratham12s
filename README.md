@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 <h1 align ="center"> 🌞 About India 🌞 </h1>
 <img align ="left" img width="400" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/tajmahalin_VN7XOdnk.gif" />
-<img align ="center" img width="400" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/Paradise%20GIF%20-%20Find%20%26%20Share%20on%20GIPHY.html" />
+<img align ="center" img width="400" height="500" src="https://github.com/pratham12s/pratham12s/blob/main/giphy%20(1).gif" />
 
 
 
