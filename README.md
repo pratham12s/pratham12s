@@ -1,4 +1,7 @@
-<img align ="center" img width="1000" height="300" src="https://github.com/pratham12s/pratham12s/blob/main/final_601e4c1c9329dd002f31cbaf_208516.gif" />
+<p align = "center">
+  <img align ="center" img width="1000" height="300" src="https://github.com/pratham12s/pratham12s/blob/main/final_601e4c1c9329dd002f31cbaf_208516.gif" />
+</p>
+_______________________________________________________________________________________________________________________________________________________
 <img align ="right" img width="300" height="200" src="https://github.com/pratham12s/pratham12s/blob/main/gif-1.gif" />
 <h1 align ="center">👋 Welcome Guys!!!</h1>
 <p> My Name is Pratham Sahay a Machine Learning Engineer🤖 and a Tech Enthusiast 🛠⚙. Currently I live in India ❤ and  my Graduation Degree 👨‍🎓 is in progress from Vellore Institute of Technology, Vellore Tamilnadu. I have a very active coding👨‍💻 profile on Hackerrank and I am also aiming to Develope Applications in Python. I love everything about Artificial Intelligence and its capabilities inspire me to code daily. 
