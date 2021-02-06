@@ -8,7 +8,7 @@ ________________________________________________________________________________
 <h1 align ="center">👋 Welcome Guys!!!</h1>
 <p> My Name is Pratham Sahay a Machine Learning Engineer🤖 and a Tech Enthusiast 🛠⚙. Currently I live in India ❤ and  my Graduation Degree 👨‍🎓 is in progress from Vellore Institute of Technology, Vellore Tamilnadu. I have a very active coding👨‍💻 profile on Hackerrank and I am also aiming to Develope Applications in Python. I love everything about Artificial Intelligence and its capabilities inspire me to code daily. 
 I belive learning should be mutual and so the innovation🚀.</p> 
-________________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 <h1 align ="center">📚What I know!!</h1>
 <p>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img alt="NumPy"
